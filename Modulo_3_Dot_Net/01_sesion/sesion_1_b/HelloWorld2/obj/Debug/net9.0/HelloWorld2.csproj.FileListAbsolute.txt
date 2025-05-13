@@ -1,0 +1,14 @@
+C:\Carlos\Bag\Curso Liderly\C sharp\sesion_1_b\HelloWorld2\bin\Debug\net9.0\HelloWorld2.exe
+C:\Carlos\Bag\Curso Liderly\C sharp\sesion_1_b\HelloWorld2\bin\Debug\net9.0\HelloWorld2.deps.json
+C:\Carlos\Bag\Curso Liderly\C sharp\sesion_1_b\HelloWorld2\bin\Debug\net9.0\HelloWorld2.runtimeconfig.json
+C:\Carlos\Bag\Curso Liderly\C sharp\sesion_1_b\HelloWorld2\bin\Debug\net9.0\HelloWorld2.dll
+C:\Carlos\Bag\Curso Liderly\C sharp\sesion_1_b\HelloWorld2\bin\Debug\net9.0\HelloWorld2.pdb
+C:\Carlos\Bag\Curso Liderly\C sharp\sesion_1_b\HelloWorld2\obj\Debug\net9.0\HelloWorld2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Carlos\Bag\Curso Liderly\C sharp\sesion_1_b\HelloWorld2\obj\Debug\net9.0\HelloWorld2.AssemblyInfoInputs.cache
+C:\Carlos\Bag\Curso Liderly\C sharp\sesion_1_b\HelloWorld2\obj\Debug\net9.0\HelloWorld2.AssemblyInfo.cs
+C:\Carlos\Bag\Curso Liderly\C sharp\sesion_1_b\HelloWorld2\obj\Debug\net9.0\HelloWorld2.csproj.CoreCompileInputs.cache
+C:\Carlos\Bag\Curso Liderly\C sharp\sesion_1_b\HelloWorld2\obj\Debug\net9.0\HelloWorld2.dll
+C:\Carlos\Bag\Curso Liderly\C sharp\sesion_1_b\HelloWorld2\obj\Debug\net9.0\refint\HelloWorld2.dll
+C:\Carlos\Bag\Curso Liderly\C sharp\sesion_1_b\HelloWorld2\obj\Debug\net9.0\HelloWorld2.pdb
+C:\Carlos\Bag\Curso Liderly\C sharp\sesion_1_b\HelloWorld2\obj\Debug\net9.0\HelloWorld2.genruntimeconfig.cache
+C:\Carlos\Bag\Curso Liderly\C sharp\sesion_1_b\HelloWorld2\obj\Debug\net9.0\ref\HelloWorld2.dll
