@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fjR1tH52gK8=",
+  "success": true,
+  "projectFilePath": "C:\\Carlos\\Bag\\Curso Liderly\\C sharp\\sesion 3\\PrimeraAPI\\PrimeraAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlosg\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\Carlosg\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
